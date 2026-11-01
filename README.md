@@ -3,15 +3,18 @@
 **CAD MODEL:**
 
 **Iteration 1:**
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/186ee861-bac3-4b73-9ad0-947a31e52b6c" />
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/186ee861-bac3-4b73-9ad0-947a31e52b6c" />
 
 
 **Iteration 2:**
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8dbc3705-d551-4591-ad94-afcdd0571b7a" />
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8dbc3705-d551-4591-ad94-afcdd0571b7a" />
 
 
 **Iteration 3:**
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a18d21dc-2f6f-4c39-b54d-dda7765db8be" />
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/a18d21dc-2f6f-4c39-b54d-dda7765db8be" />
 
 # Metal Planetary Gear System-Based Actuators
 
