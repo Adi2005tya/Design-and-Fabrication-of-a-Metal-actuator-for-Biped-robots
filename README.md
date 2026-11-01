@@ -51,10 +51,9 @@ The planetary system consists of a central **Sun gear**, orbiting **Planet gears
    - Gear ratio: 10:1
    - Validated via SolidWorks motion study simulations.
 
-2. **Iteration 2 & 3 (Compound Planetary Gear Actuator):**
-   - Implemented compound planet gears (rigidly combined small and large gears) to maximize reduction ratio in a compact axial footprint.
-   - Integrated custom 3D-printed O-Drive mounting for precise magnetic encoder positioning.
-
+2. **Iteration 2 & 3 (Single stage  and Compound Planetary Gear Actuator):**
+   - Upgraded the design in iteration 1 to iteration to which was an internal single stage planetary gear box with a reduction ratio of 6:1.
+   - Finally transitioned to the latest version i.e. a compound planetary gearboxes with optimized sizing and a gear ratio of 11.2:1 
 ---
 
 ## 🧪 Testing & Performance
