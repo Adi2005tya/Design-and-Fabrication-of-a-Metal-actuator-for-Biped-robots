@@ -1,5 +1,12 @@
 
+# Metal Planetary Gear System-Based Actuators
 
+A compact, high-efficiency torque multiplication mechanism designed for integration with Brushless DC (BLDC) motors to enable high-torque, space-constrained automation and robotics applications. Developed at the **Stochastic Robots Lab, Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore**.
+
+## 📌 Overview
+BLDC motors provide high speed and precise control but often lack sufficient torque under heavy loads. This project focuses on designing, assembling, and evaluating a **Compound Planetary Gearbox Actuator** that delivers a high reduction ratio, robust torque amplification, and minimal power transmission losses.
+
+---
 **CAD MODEL:**
 
 **Iteration 1:**
@@ -16,14 +23,6 @@
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/a18d21dc-2f6f-4c39-b54d-dda7765db8be" />
 
-# Metal Planetary Gear System-Based Actuators
-
-A compact, high-efficiency torque multiplication mechanism designed for integration with Brushless DC (BLDC) motors to enable high-torque, space-constrained automation and robotics applications. Developed at the **Stochastic Robots Lab, Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore**.
-
-## 📌 Overview
-BLDC motors provide high speed and precise control but often lack sufficient torque under heavy loads. This project focuses on designing, assembling, and evaluating a **Compound Planetary Gearbox Actuator** that delivers a high reduction ratio, robust torque amplification, and minimal power transmission losses.
-
----
 
 ## ⚙️ Specifications & Technical Features
 
